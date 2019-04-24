@@ -1,0 +1,19 @@
+<p>&nbsp;</p>
+
+<center><img src="6623.jpg" width="265" height="266" align="BOTTOM" /></center><hr />
+
+<p style="text-align: center;"><a href="https://twitter.com/">Click Here</a> to go to my favorite site</p>
+
+<h1 style="text-align: center;">My name is Nic Griebenow</h1>
+
+<h2 style="text-align: center;">Welcome to my site!</h2>
+
+<body bgcolor = "gray">
+
+<p><strong>About Me</strong></p>
+
+<p><p> A quick desciption of me is that I am undeclared buisness major persuing finance and supply chain managment. I have 2 dogs named Ruger and Noodles, inluding 2 brothers named Conner and Phill that live in in Plano, TX. Last year I took a gap year in which I traveled the US playing Junior Hockey in Kenai,Ak and Amarillo, Tx. </p> <br /><br /></p>
+
+</body>
+
+<hr />
